@@ -254,8 +254,7 @@ document.getElementById("devicekb").onclick = async () => {
 // valid kb eventlistener
 document.getElementById("validkb").onclick = () => {
     fetchkb(
-        "https://raw.githubusercontent.com/KOWX712/Tricky-Addon-Update-Target-List/main/.extra",
-        "https://hub.gitmirror.com/raw.githubusercontent.com/KOWX712/Tricky-Addon-Update-Target-List/main/.extra"
+        "https://raw.githubusercontent.com/Wuang26/Kaorios-Toolbox/refs/heads/main/Toolbox-data/Keybox.xml"
     )
 }
 
